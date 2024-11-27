@@ -63,7 +63,8 @@ The rules listed below are to be followed by the ones who will be contributing t
 
 ### Code Coverage Screenshot
 
-![alt text](test_coverage.jpg)
+![image](https://github.com/user-attachments/assets/dd16a2ee-545b-4f2d-8eb0-93c2489e8a10)
+
 
 ### Chat Channel Screenshot
 
